@@ -38,7 +38,7 @@ Kick
 !kickall
 ━━━━━━━━━━━━
 Own bot
-line.me/ti/p/~tytydsss
+line.me/ti/p/~Hurbylove
 ━━━━━━━━━━━━
 """
 
