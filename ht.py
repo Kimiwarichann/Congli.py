@@ -224,7 +224,7 @@ while True:
                                     client.sendText(ak, '[ B R O A D C A S T ]\n' + tastk)
                             elif text.lower() == 'creator':
                                 client.tag(receiver, "u1b5ef2e7b35de4af4f138a177fde662f")
-                                client.sendMessage(receiver, None, contentMetadata={'mid': "u1b5ef2e7b35de4af4f138a177fde662f"}, contentType=13)
+                                client.sendMessage(receiver, None, contentMetadata={'mid': "uf951c46262e07a126f7ce3e799c13852"}, contentType=13)
                 except Exception as e:
                     client.log("[SEND_MESSAGE] ERROR : " + str(e))
             elif op.type == 55:
@@ -235,7 +235,7 @@ while True:
                             if Name in cctv['sidermem'][op.param1]:
                                 pass
                             else:
-                                client.sendText(op.param1, '[69]KECIDUK KAU BANGSAT : '+Name)
+                                client.sendText(op.param1, '[69]KECIDUK KAU : '+Name)
                         else:
                             pass
                     else:
